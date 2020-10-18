@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>806461863335-5rct06ushm3b9imqv1j5rla16j44r7hv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.806461863335-5rct06ushm3b9imqv1j5rla16j44r7hv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>806461863335-0tv4cibvctc4dte118lbntoms965le2k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNQ8q6YNQ6h0H1gzS2h0o0stB-KNunl7Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>806461863335</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fexm</string>
+	<key>PROJECT_ID</key>
+	<string>matbaacimapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>matbaacimapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:806461863335:ios:02aad90060ee087b78b282</string>
+	<key>DATABASE_URL</key>
+	<string>https://matbaacimapp.firebaseio.com</string>
+</dict>
+</plist>
